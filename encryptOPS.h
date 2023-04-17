@@ -64,3 +64,4 @@ class encryptOPS {
             this->key = key;
         }
 };
+
