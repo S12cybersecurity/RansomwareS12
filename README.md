@@ -1,4 +1,4 @@
-# S12Ransomware
+# RansomwareS12
 Simple Ransoware to attack Windows 🌟 
 
 This is the first and most simple version of this malware, in the next's versions you can see:
