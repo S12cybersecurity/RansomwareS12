@@ -7,7 +7,7 @@ using namespace std;
 
 using namespace std;
 
-int banner(string text  ) {
+int banner(string text) {
     // Calculate the length of the text and the total width of the banner
     int textLength = text.length();
     int bannerWidth = textLength + 4; // Add 4 for the two asterisks on each side
